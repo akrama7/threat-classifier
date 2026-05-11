@@ -30,6 +30,12 @@ After running, check `output/` folder.
 - `threat_classifier_report.png` shows the model accuracy, confusion matrix, F1 scores.
 - `threat_keywords.png` shows top TF-IDF keywords per threat category
 
+<img width="2323" height="1430" alt="threat_classifier_report" src="https://github.com/user-attachments/assets/c36308f6-b109-4ae8-848c-f291934e7c59" />
+
+<img width="2985" height="889" alt="threat_keywords" src="https://github.com/user-attachments/assets/8368ac53-0539-4bb3-a724-f4c87ed8b517" />
+
+<img width="1130" height="419" alt="Screenshot 2026-05-11 153531" src="https://github.com/user-attachments/assets/2c9971fb-0cc6-43a1-943b-3c1b96837c7e" />
+
 ## Using the Full Kaggle Dataset (120,000 articles)
 
 1. Go to https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
